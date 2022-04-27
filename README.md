@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfianChandra
 - 👀 I’m interested in Web Programming and Android Development
-- 🌱 I’m currently learning Frontend Web Frameworks and NodeJS
+- 🌱 I’m currently learning Frontend Web Frameworks
 - 📫 Get in touch: alfian.github404@gmail.com
 
 <!---
