@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Bow Down to The Code Overlord, Alfian Chandra! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Full-Stack+Warrior;Vue.js+%26+Node.js+Supremacy;.NET+%26+MongoDB+Mastermind;Architecting+Chaos+Into+Perfection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Full-Stack+Warrior;Vue.js+%26+Node.js+Supremacy;Architecting+Chaos+Into+Perfection" alt="Typing SVG" />
 </p>
 
 ---
