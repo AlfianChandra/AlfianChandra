@@ -37,5 +37,3 @@
   <a href="https://afcdev.biz.id"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://github.com/AlfianChandra"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
