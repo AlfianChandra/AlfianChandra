@@ -5,11 +5,10 @@
 </p>
 
 ## 🚀 About Me
-- 👨‍💻 Full-Stack Web Developer at **PT Pertamina**
+- 👨‍💻 Full-Stack Web Developer & Mobile Android Developer
 - 💙 Passionate about **Web Development, Android Development, and System Architecture**
 - ⚡ Currently working with **Vue.js, Node.js, .NET, and MongoDB**
 - ☕ Fueling my code with **Coffee & Late Night Debugging**
-- 🎯 Aiming to build a successful **IT Startup**
 - 📫 Reach me at: **alfian.github404@gmail.com**
 - 🌍 Visit my website: [afcdev.biz.id](https://afcdev.biz.id)
 
