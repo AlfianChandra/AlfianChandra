@@ -7,12 +7,12 @@
 ---
 
 ## 🔥 Who The Hell Am I?  
-- 🏆 **Full-Stack Web Dev | Mobile Android Conqueror | System Architect**
-- 💀 **Vue.js Enthusiast | Node.js & .NET Assassin | MongoDB Tamer**
+- 🏆 **Full-Stack Web Dev | Mobile Android | System Architect**
+- 💀 **Vue.js | Node.js & .NET | MongoDB**
 - ☕ **Fueled by Coffee, Built for Late-Night Debugging**
 - 🛠️ **Breaking Code, Fixing Bugs, Ruling Repositories**
-- 💌 **Reach me if you dare:** [alfian.github404@gmail.com](mailto:alfian.github404@gmail.com)
-- 🌍 **Visit the Kingdom:** [afcdev.biz.id](https://afcdev.biz.id)
+- 💌 **Reach me:** [alfian.github404@gmail.com](mailto:alfian.github404@gmail.com)
+- 🌍 **Pay a visit:** [afcdev.biz.id](https://afcdev.biz.id)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ GitHub Stats – Welcome to the Danger Zone  
+## ⚡ Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlfianChandra&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfianChandra&theme=tokyonight" />
@@ -31,7 +31,7 @@
 
 ---
 
-## ⚔️ Code or Die – Let’s Connect  
+## ⚔️ Let’s Connect  
 <p align="center">
   <a href="mailto:alfian.github404@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://afcdev.biz.id"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
